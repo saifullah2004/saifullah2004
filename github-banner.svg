@@ -58,7 +58,7 @@
   <text x="60" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">React.js</text>
   <text x="230" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Next.js</text>
   <text x="390" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Node.js</text>
-  <text x="560" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Laravel</text>
+  <text x="560" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">PHP</text>
   <text x="730" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">MongoDB</text>
   <text x="930" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Tailwind CSS</text>
 </svg>
