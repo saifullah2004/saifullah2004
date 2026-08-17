@@ -16,7 +16,7 @@
   </a>
 </p> -->
 
-   <svg viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#12141c"/>
@@ -75,10 +75,11 @@
   <!-- skills row -->
   <text x="60" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">React.js</text>
   <text x="230" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Next.js</text>
-  <text x="390" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Node.js</text>S
+  <text x="390" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Node.js</text>
+  <text x="560" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Laravel</text>
   <text x="730" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">MongoDB</text>
   <text x="930" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Tailwind CSS</text>
-</svg> 
+</svg>
  
 <br/>
 
