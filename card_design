@@ -1,0 +1,63 @@
+<svg viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12141c"/>
+      <stop offset="55%" stop-color="#1a1d29"/>
+      <stop offset="100%" stop-color="#20232f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="15%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#3f7cac" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3f7cac" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="avatarRing" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6fb3e0"/>
+      <stop offset="100%" stop-color="#3f7cac"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="500" fill="url(#bg)"/>
+  <rect width="1200" height="500" fill="url(#glow)"/>
+
+  <!-- decorative faint rings, echoing the reference image -->
+  <circle cx="140" cy="230" r="230" fill="none" stroke="#3f7cac" stroke-opacity="0.12" stroke-width="2"/>
+  <circle cx="140" cy="230" r="170" fill="none" stroke="#3f7cac" stroke-opacity="0.10" stroke-width="2"/>
+
+  <!-- avatar -->
+  <circle cx="150" cy="180" r="82" fill="url(#avatarRing)"/>
+  <circle cx="150" cy="180" r="70" fill="#23262f"/>
+  <text x="150" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700"
+        fill="#e8edf3" text-anchor="middle">MS</text>
+
+  <!-- name -->
+  <text x="270" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#f2f4f7">
+    Muhammad<tspan fill="#6fb3e0"> Saifullah</tspan>
+  </text>
+
+  <!-- title -->
+  <text x="270" y="225" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" font-weight="700">
+    <tspan fill="#6fb3e0">Full Stack</tspan>
+    <tspan fill="#f2f4f7"> Developer</tspan>
+  </text>
+
+  <!-- contact row -->
+  <text x="60" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic">
+    <tspan fill="#c9d1d9">github.com/</tspan><tspan fill="#6fb3e0">saifullah2004</tspan>
+  </text>
+  <text x="430" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic">
+    <tspan fill="#c9d1d9">msaifullahawan2004</tspan><tspan fill="#6fb3e0">@outlook.com</tspan>
+  </text>
+  <text x="860" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic">
+    <tspan fill="#c9d1d9">portfolio-</tspan><tspan fill="#6fb3e0">httpsaif</tspan><tspan fill="#c9d1d9">.vercel.app</tspan>
+  </text>
+
+  <!-- divider -->
+  <line x1="60" y1="375" x2="1140" y2="375" stroke="#3a3f4d" stroke-width="1"/>
+
+  <!-- skills row -->
+  <text x="60" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">React.js</text>
+  <text x="230" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Next.js</text>
+  <text x="390" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Node.js</text>S
+  <text x="730" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">MongoDB</text>
+  <text x="930" y="430" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" font-weight="700" fill="#f2f4f7">Tailwind CSS</text>
+</svg>
