@@ -117,14 +117,7 @@ University of Chakwal · 2022 – 2026
 
 <br/>
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifullah2004&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah2004&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-<br/>
 
 ## Get in Touch
 
